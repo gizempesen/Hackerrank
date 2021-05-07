@@ -1,6 +1,2 @@
-inputString = input() # get a line of input from stdin and save it to our variable
-
-# Your first line of output goes here
-print('Hello, World.')
-
-# Write the second line of output
+if __name__ == '__main__':
+    print("Hello, World!")
